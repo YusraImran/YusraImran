@@ -1,4 +1,4 @@
-<img width="80%" src ="">
+
 
 <h1 align="center">Hi 👋, I'm Yusra Imran</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
