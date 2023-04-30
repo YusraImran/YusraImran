@@ -1,7 +1,7 @@
-<img width="90%" src ="https://thumbs.dreamstime.com/b/isometric-d-illustration-girl-programmer-coding-project-using-computer-girl-programmer-web-engineer-freelancer-work-133756815.jpg">
+<img width="80%" src ="https://img.freepik.com/premium-vector/developer-is-sitting-with-laptop-young-programmer-concentrated-programming-create-software_530733-2706.jpg?w=2000">
 
 <h1 align="center">Hi 👋, I'm Yusra Imran</h1>
-<h3 align="center">A passionate frontend developer from pakistanveloper from India</h3>
+<h3 align="center">A passionate frontend developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusraimran&label=Profile%20views&color=0e75b6&style=flat" alt="yusraimran" /> </p>
 
