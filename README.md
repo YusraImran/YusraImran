@@ -1,4 +1,4 @@
-<img width="80%" src ="https://img.freepik.com/premium-vector/developer-is-sitting-with-laptop-young-programmer-concentrated-programming-create-software_530733-2706.jpg?w=2000">
+<img width="80%" src ="">
 
 <h1 align="center">Hi 👋, I'm Yusra Imran</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
