@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **HTML CSS BOOTSTARP JAVASCRIPT**
+- 💬 Ask me about **HTML CSS BOOTSTARP JAVASCRIPT React NODEJS MANGODB**
 
 - 📫 How to reach me **Yusraimran146@gmail.com**
 
