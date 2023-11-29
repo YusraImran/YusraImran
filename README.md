@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusraimran" alt="yusraimran" /></a> </p>
 
-- 🔭 I’m currently learning from BanoQabil [Bootsrap-website](https://github.com/YusraImran/Bootstrap-Website)
+- 🔭 I’m currently learning from FAST-NUCES [Bootsrap-website](https://github.com/YusraImran/Bootstrap-Website)
 
 - 🌱 I’m currently learning **MERN stack**
 
